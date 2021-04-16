@@ -23,3 +23,5 @@ The user should be able to:
   * View multiple the combined weight of multiple exercises on the `stats` page.
 
 ![](demo.gif)
+
+Deployed at https://intense-eyrie-19785.herokuapp.com/
