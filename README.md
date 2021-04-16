@@ -1,6 +1,6 @@
 # fitness-tracker
 
-For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the `Develop` folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.
+This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.
 
 ## User Story
 
@@ -21,3 +21,5 @@ The user should be able to:
   * Add new exercises to a new workout plan.
 
   * View multiple the combined weight of multiple exercises on the `stats` page.
+
+![](demo.gif)
